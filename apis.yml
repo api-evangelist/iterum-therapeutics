@@ -1,8 +1,24 @@
 aid: iterum-therapeutics
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/iterum-therapeutics.png
 name: Iterum Therapeutics
-description: Iterum Therapeutics is a company surfaced as a portfolio company of canaan-partners and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: Iterum Therapeutics plc is a clinical-stage pharmaceutical company headquartered
+  in Dublin, Ireland, focused on developing novel anti-infective medications to treat multi-drug
+  resistant (MDR) bacterial infections. Its lead product, ORLYNVAH (sulopenem), is described as
+  the first oral and IV penem antibiotic targeting gram-negative resistant infections. The company
+  was surfaced as a portfolio company of canaan-partners and added to the API Evangelist network.
+  Iterum Therapeutics is a pharmaceutical/biotech company and does not operate a public developer
+  API; as of March 2026 the company entered liquidation following a High Court order in Ireland.
 url: https://raw.githubusercontent.com/api-evangelist/iterum-therapeutics/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,14 +26,40 @@ x-backed-by:
 - canaan-partners
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-industry: pharmaceutical
+x-status: liquidation
+x-status-note: Entered liquidation March 2026 following a High Court order in Ireland.
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Pharmaceutical
+- Biotechnology
+- Anti-Infectives
+- Antibiotics
+- Healthcare
+- Clinical-Stage
+- Drug Development
 apis: []
+common:
+- type: Website
+  url: https://www.iterumtx.com
+- type: Investors
+  url: https://ir.iterumtx.com
+- type: Support
+  url: https://www.iterumtx.com/contact
+- type: PrivacyPolicy
+  url: https://www.iterumtx.com/privacy-statement
+- type: TermsOfService
+  url: https://www.iterumtx.com/terms-of-use
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
