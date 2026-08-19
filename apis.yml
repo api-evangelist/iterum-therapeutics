@@ -29,7 +29,7 @@ x-tier-reason: portfolio-lead
 x-industry: pharmaceutical
 x-status: liquidation
 x-status-note: Entered liquidation March 2026 following a High Court order in Ireland.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
