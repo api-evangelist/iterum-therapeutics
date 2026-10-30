@@ -64,6 +64,39 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Iterum Therapeutics is a company surfaced as a portfolio company of canaan-partners and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-Backed by: canaan-partners
+**Status:** liquidation
+
+Iterum Therapeutics plc is a clinical-stage pharmaceutical company headquartered in Dublin, Ireland, focused on developing novel anti-infective medications to treat multi-drug resistant (MDR) bacterial infections. Its lead product, ORLYNVAH (sulopenem), is described as the first oral and IV penem antibiotic targeting gram-negative resistant infections. The company was surfaced as a portfolio company of canaan-partners and added to the API Evangelist network. Iterum Therapeutics is a pharmaceutical/biotech company and does not operate a public developer API; as of March 2026 the company entered liquidation following a High Court order in Ireland.
+
+**Areas:** Company · Pharmaceuticals · Biotechnology · Anti-Infectives · Antibiotics · Healthcare · Clinical Stage · Drug Development
+
+## Iterum Therapeutics on APIs.io (historical record)
+
+Everything profiled for Iterum Therapeutics is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/iterum-therapeutics/](https://apis.io/providers/iterum-therapeutics/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.iterumtx.com)
+- [Support](https://www.iterumtx.com/contact)
+- [Terms of service](https://www.iterumtx.com/terms-of-use)
+- [Privacy policy](https://www.iterumtx.com/privacy-statement)
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Iterum Therapeutics: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/iterum-therapeutics/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
